@@ -1,0 +1,16 @@
+.navbar{
+    width: 100vw;
+    background-color: black;
+    position: fixed;
+    z-index: 1;
+}
+
+.links{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    padding-top: .5rem;
+    text-decoration: none;
+    color: white;
+}
